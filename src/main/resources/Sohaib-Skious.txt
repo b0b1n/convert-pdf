@@ -1,0 +1,146 @@
+
+SKIOUS Sohaib
+A la recherche d'un 
+
+stage PFE en 
+développement web 
+
+JAVA
+
+sohaibskious@gmail.com
+
++212689437618 permis B
+
+Casablanca Marocain
+
+Sohaib Skious b0b1n
+
+Compétences
+
+Méthodes d'analyse
+UML, Merise
+
+Langages informatiques
+Java, JavaScript, Python, HTML, CSS, SQL, 
+TypeScript, php, C, C++
+
+Bases de données
+Oracle, MySQL, Postgresql, SQL Server, 
+MongoDB, couchDB
+
+Frameworks
+JEE,  Spring MVC, Spring boot, Hibernate, 
+Django, ASP.NET, Laravel, FAST API
+
+Frontend
+Bootstrap, JSP, JSTL, Thymeleaf, Angular, 
+ReactJS, MaterialUI, JQuery
+
+APIs et technologies
+REST Api, SOAP
+
+DevOps
+GIT, Github, Docker, Swarm
+
+Web Sémantique
+XML, XPath, XQuery,  XSLT, RDF, OWL
+
+Certificats
+
+Java explorer(Oracle)
+
+Java programming with JavaFx
+
+Programming network applications with 
+Java
+
+Langues
+
+Arabe (Maternelle) | Anglais (Très bien)
+
+Français (Compétent)
+
+Formation
+
+Master spécialisé en Ingenierie informatique et Internet
+Faculté des sciences Ain chock
+2021 – présent | Casablanca, Maroc
+
+Licence en sciences mathématiques et informatique
+Faculté polydisciplinaire de Safi
+2018 – 2021 | Safi, Maroc
+
+Baccalauréat  en sciences mathématiques -A-
+Lycée Hassan II
+2017 – 2018 | Safi, Maroc
+
+Projets
+
+Création d'application web Mini-Wiki
+JEE, JSP, JSTL, Laravel API , RestAPI, MongoDB
+01/2022 – 05/2022
+
+Conception et réalisation de projet permettant la création, la 
+modification, et l'illustration collaborative des pages pour accéder 
+aux articles publiés par d'autres utilisateurs.
+
+Développement d'une plateforme d'éducation thérapeutique
+Bootstrap, Django, NLP, nltk, textBlob, RestAPI ...
+06/2021 – 06/2021
+
+L'application est conçue pour aider les patients atteints de 
+maladies cardiovasculaires à obtenir rapidement des réponses à 
+leurs questions fréquentes. Elle comprend également un chatbot 
+basé sur l'apprentissage automatique, un forum de chat pour 
+communiquer avec d'autres patients et des médecins, et un 
+détecteur de sentiments utilisant l'apprentissage profond.
+
+Mise en place d'une solution d'orchestration de Docker
+Docker, Docker swarm, swarmpit
+04/2022 – 06/2022
+
+Déploiment d'une solution d'approvisionnement de docker dans 
+une infrastructure virtuelle.
+
+Application de prédiction de prix des voitures d'occasions
+Backend: FastAPI, Frontend: ReactJS
+05/2022 – 07/2022
+
+Implémentation des modèles de machine learning pour prédire les 
+prix des voitures d'occasions pour faciliter aux utilisateurs l'accés 
+aux prix des voitures d'occasion au marché.
+
+Conception et réalisation de site E-commerce
+Bootstrap, ASP.NET, SQL Server
+12/2021 – 01/2022
+
+Création d'une application d'achat de matériels informatiques 
+avec ASP.NET
+
+Système de géolocalisation des recommandations touristiques
+ReactJS, Django , MapBOX, PWA
+02/2021 – 06/2021
+
+Outils
+
+IDE (IntellijIDEA, Eclipse, NetBeans, Visual Studio, VS code...)
+
+plateformes (Postman, SonarQube)
+
+Design patterns (MVC, MVT, SOLID principles)
+
+Bureautique (Pack o�ce( Powerpoint, Word, Excel ))
+
+Qualités
+
+Motivé | Sens de l'organisation | Discipliné | Responsable
+
+Serieux | Esprit d'équipe
+
+mailto:sohaibskious@gmail.com
+tel:+212689437618
+https://www.linkedin.com/in/sohaib-skious-3758a21a6/
+https://github.com/b0b1n
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-87fdec3d-2c55-4c92-aaaa-c1ae66c8f1b3.pdf
+https://www.udemy.com/certificate/UC-85103917-1743-4938-ba04-364d7a0d5fd9/
+
